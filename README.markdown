@@ -19,7 +19,7 @@ Clone this repository to your local machine using:
 
 ```bash
 git clone https://github.com/Connorld13/EC_Enterprise.git
-cd inmemorydb
+cd EC_Enterprise
 ```
 
 No further installation of packages is required, as the project uses only the Python standard library.
