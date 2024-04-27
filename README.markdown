@@ -18,7 +18,7 @@ This project is written in Python and does not require any external libraries be
 Clone this repository to your local machine using:
 
 ```bash
-git clone https://github.com/Connorld13/inmemorydb.git
+git clone https://github.com/Connorld13/EC_Enterprise.git
 cd inmemorydb
 ```
 
