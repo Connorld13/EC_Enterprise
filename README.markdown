@@ -29,7 +29,7 @@ No further installation of packages is required, as the project uses only the Py
 To use the InMemoryDB class within your own Python projects, include the `inmemorydb.py` file in your project directory. Here's a quick example of using the database:
 
 ```python
-from inmemorydb import InMemoryDB
+from InMemoryDB import InMemoryDB
 
 db = InMemoryDB()
 db.begin_transaction()
